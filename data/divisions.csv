@@ -1,0 +1,9 @@
+division_id,division_name,avg_wrvu_per_visit,avg_collection_per_visit
+1,Hospital Medicine,2.75,145.0
+2,Cardiology,3.5,220.0
+3,Pulmonary,3.1,185.0
+4,Gastroenterology,4.25,275.0
+5,Infectious Disease,2.9,165.0
+6,Nephrology,3.2,195.0
+7,Rheumatology,2.6,150.0
+8,Endocrinology,2.45,140.0
